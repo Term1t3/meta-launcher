@@ -12,6 +12,11 @@
             "uid": "com.mumfrey.liteloader"
         },
         {
+            "name": "authlib-injector",
+            "sha256": "a60e5be75396d0228263c83f904338e779dc01fe9f88d6bf2c2c97c42494e4b5",
+            "uid": "moe.yushi.authlibinjector"
+        },
+        {
             "name": "Java Runtimes",
             "sha256": "f35a811817d75b48fbaeab31302663a1a8457bc7b91e00e433163c3fd3d58837",
             "uid": "net.adoptium.java"
